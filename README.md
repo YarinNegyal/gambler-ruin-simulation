@@ -50,7 +50,7 @@ This heatmap shows how the probability of reaching the target depends on both:
 - starting wealth
 - win probability *p*
 
-![Heatmap](figurs/win_probability_heatmap.png)
+![Heatmap](figures/win_probability_heatmap.png)
 
 ---
 
